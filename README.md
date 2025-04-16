@@ -103,8 +103,9 @@ Comprobar luego la terminal.
 Nos empezarán a salir logs.
 El nombre del nodo está aquí:
 
-<pre>![image](https://github.com/user-attachments/assets/b5ee2f6e-9db9-4338-b868-f22029e27617)
-</pre>
+
+  ![02cce7b2c06af78e275f10e7d7cd9ab3](https://github.com/user-attachments/assets/07de4288-614e-4fbd-a1fa-5d0478b0f0d0)
+
 
 **Problemas que me he ido encontrando**
 
