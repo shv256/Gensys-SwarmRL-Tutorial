@@ -1,5 +1,6 @@
 # gensynTut
 Entrar por ssh en el rig que queramos instalar de la siguiente manera:
+Necesitamos redireccionar el puerto 3000 a nuestro equipo desde donde accedemos por temas de certificado. Ya que necesita una conexión segura para continuar
 
   ```bash
   ssh -L 3000:localhost:3000 user@ubuntu_ip
@@ -69,6 +70,10 @@ sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
 sudo apt-get update
 sudo apt-get install -y docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
  ```
+Instalar navegador para la terminal
+ ```bash
+sudo apt install lynx w3m -y
+```
 
 Clonar Repositorio de Gensyn
 
